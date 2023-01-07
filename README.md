@@ -1,10 +1,12 @@
 # Hi, I'm Shreya Kamath👋
 
-    A Second Year Engineering student, I am an aspiring front end designer and developer.
+###    A Second Year Engineering student, I am an aspiring front end designer and developer.
     
-    - 🔭 I’m proficient with HTML, CSS, C, Java and have decent knowledge of C++ and MySQL.
-    - 🌱 I’m currently learning javascript and object-oriented DSA.
-    - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreya-kamath-a67595239/)
+####   - 🔭 I’m proficient with HTML, CSS, C, Java and have decent knowledge of C++ and MySQL.
+####   - 🌱 I’m currently learning javascript and object-oriented DSA.
+####   - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreya-kamath-a67595239/)
+
+      
     
  
 
