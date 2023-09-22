@@ -1,6 +1,6 @@
 # Hi, I'm Shreya Kamath👋
 
-####    A Second Year Engineering student, I am an aspiring front end designer and developer.
+####    A Third Year Engineering student, I am an aspiring software engineer.
     
 #####   - 🔭 I’m proficient with HTML, CSS, Javascript, ReactJS, C, Java and have decent knowledge of C++ and MySQL.
 #####   - 🌱 I’m currently learning MERN stack.
