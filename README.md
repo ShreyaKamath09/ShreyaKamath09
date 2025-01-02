@@ -1,9 +1,7 @@
 # Hi, I'm Shreya Kamath👋
 
-####    A Third Year Engineering student, I am an aspiring software engineer.
-    
-#####   - 🔭 I’m proficient with HTML, CSS, Javascript, ReactJS, C, Java and have decent knowledge of C++ and MySQL.
-#####   - 🌱 I’m currently learning MERN stack.
+####    I am an aspiring software engineer.
+
 #####   - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreya-kamath-a67595239/)
 
       
