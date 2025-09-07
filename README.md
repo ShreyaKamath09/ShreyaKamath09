@@ -1,6 +1,4 @@
-# Hi, I'm Shreya Kamath👋
-
-####    I am an aspiring software engineer.
+# Hi, I'm Shreya Kamath.
 
 #####   - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreya-kamath-a67595239/)
 
